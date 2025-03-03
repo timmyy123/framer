@@ -1,4 +1,4 @@
-import { delay, motion, useAnimation, useInView, useScroll, useTransform } from "framer-motion";
+import { motion, useAnimation, useInView, useScroll, useTransform } from "framer-motion";
 import { useEffect, useRef } from "react";
 
 function App() {
